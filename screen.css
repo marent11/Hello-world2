@@ -12,6 +12,16 @@ main {
     width: 800px;
 }
 
+.masthead{
+    background-image:url('<img src="images/macintshy.avif"');
+    background-size: cover;
+    background-position: bottom;
+    height: 250px;
+    border-radius: 20px;
+
+
+
+}
 .details {
 
     display: flex;

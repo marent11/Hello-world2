@@ -3,6 +3,7 @@ body {
     font-family:Arial, Helvetica, sans-serif;
     border-top: 15px solid #424242;
     margin: 0;
+    color: #424242;
 }
 
 main {
@@ -44,7 +45,14 @@ img {
     border-radius: 20px;
 
 }
+h1{
 
+    background-image: url('images/170897C5-A175-4280-BD4F-A73079D571A1_4_5005_c.jpeg');
+    background-repeat: no-repeat;
+    background-size: 40px;
+    font-size: 3em;
+    padding-left: 50px;
+}
 h2 {
     margin: 0 0 10px 0;
 }

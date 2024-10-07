@@ -33,11 +33,29 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;
-    padding: 25px;
     border-radius: 20px;
     margin-top: 25px;
+    
+}
+.details.section p {
+    margin: 20px;
+
+}
+.details section h2 {
+    margin: 20px;
+}
+.details section.with-code {
+    padding: 0;
 }
 
+
+div.code-html{
+    padding: 25px;
+    background: #424242;
+    color: #fff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
 img {
 
     width: 100%;
@@ -50,8 +68,10 @@ h1{
     background-image: url('images/170897C5-A175-4280-BD4F-A73079D571A1_4_5005_c.jpeg');
     background-repeat: no-repeat;
     background-size: 40px;
+    background-position: center left;
     font-size: 3em;
     padding-left: 50px;
+    margin: 100px 0 25px 0;
 }
 h2 {
     margin: 0 0 10px 0;
